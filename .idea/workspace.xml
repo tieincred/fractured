@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f93e9aa4-da1f-4cfd-a53f-3aa6db7b44f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/saved Details.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lBUeUGEbw5dlhLu1es39biwsqt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91820\PycharmProjects\flaskTest\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91820\PycharmProjects\flaskTest" />
+      <recent name="C:\Users\91820\PycharmProjects\flaskTest\venv" />
+      <recent name="C:\Users\91820\PycharmProjects\flaskTest\static" />
+      <recent name="C:\Users\91820\PycharmProjects\flaskTest\pics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python">
+      <module name="flaskTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\91820\PycharmProjects\flaskTest\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/activate" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flaskTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flaskTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Test" />
+      <item itemvalue="Python.check" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f93e9aa4-da1f-4cfd-a53f-3aa6db7b44f3" name="Default Changelist" comment="" />
+      <created>1607070072565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607070072565</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607070752474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607070752474" />
+    <state x="532" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608954733934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1608954733934" />
+    <state x="810" y="150" key="FileChooserDialogImpl" timestamp="1608982287977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="810" y="150" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608982287977" />
+    <state width="1515" height="351" key="GridCell.Tab.0.bottom" timestamp="1608983339842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="351" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608983339842" />
+    <state width="1515" height="351" key="GridCell.Tab.0.center" timestamp="1608983339842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="351" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608983339842" />
+    <state width="1515" height="351" key="GridCell.Tab.0.left" timestamp="1608983339842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="351" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608983339842" />
+    <state width="1515" height="351" key="GridCell.Tab.0.right" timestamp="1608983339842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="351" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608983339842" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1607418853158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607418853158" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1607418853158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607418853158" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1607418853157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607418853157" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1607418853158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607418853158" />
+    <state x="480" y="53" key="SettingsEditor" timestamp="1608983307932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="480" y="53" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608983307932" />
+    <state x="862" y="11" width="579" height="801" key="find.popup" timestamp="1607226451122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="862" y="11" width="579" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1607226451122" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607163252284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607163252284" />
+  </component>
+</project>

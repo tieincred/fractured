@@ -1,0 +1,6 @@
+Patient name,Patient age,Patient Gender,Result
+mkir,9,male,NO FRACTURE DETECTED
+work,10,male,FRACTURE DETECTED
+iol,3,male,FRACTURE DETECTED
+mal,2,male,NO FRACTURE DETECTED
+h,3,a,FRACTURE DETECTED

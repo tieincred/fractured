@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+
+        <title>Title</title>
+    </head>
+    <body style="background: aqua;">
+    <video id="video" width="640" height="480" autoplay></video>
+    <button id="snap">Snap Photo</button>
+    <canvas id="canvas" width="640" height="480"></canvas>
+    <h1>Press Snap photo to click picture and press Generate Report!</h1>
+    <form action="/makereport" method="POST" enctype="multipart/form-data">
+            <button type="submit" class="btn btn-primary btn-lg">Generate Report</button>
+            </form>
+
+    </body>
+    <script>
+
+    var video = document.getElementById('video');
+    if(navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+        navigator.mediaDevices.getUserMedia({ video: true }).then(function(stream) {
+            //video.src = window.URL.createObjectURL(stream);
+            video.srcObject = stream;
+            video.play();
+        });
+    }
+
+    var canvas = document.getElementById('canvas');
+    var context = canvas.getContext('2d');
+    var video = document.getElementById('video');
+$(function() {
+    $('#snap').click(function() {
+     context.drawImage(video, 0, 0, 640, 480);
+        var form_data = new FormData();
+        form_data.append('image', canvas.toDataURL());
+        $.ajax({
+            type: 'POST',
+            url: '/submit',
+            data: form_data,
+            contentType: false,
+            cache: false,
+            processData: false,
+            success: function(data) {
+                console.log('Success!');
+            },
+        });
+    });
+});
+
+
+
+
+
+</script>
+</html>
